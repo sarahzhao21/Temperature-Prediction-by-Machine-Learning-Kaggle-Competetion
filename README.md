@@ -1,4 +1,4 @@
-# SI670_Kaggle_Competetion_Temperature_Prediction_Team-Libra
+# Kaggle Competetion Temperature Prediction (Team Name: Libra, Team Member: Xinyi Zhao)
 
 Context:
 Lake monitoring provides important information for environment protection and pollution identification, such as temperature/thermal monitoring. In this Kaggle task, the instructor will provide thermal sensor data for multiple lakes and ask you to predict/estimate the temperature at a certain depth for certain lakes.
