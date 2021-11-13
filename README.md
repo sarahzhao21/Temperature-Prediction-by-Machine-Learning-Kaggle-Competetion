@@ -34,7 +34,7 @@ The temperature of a specific depth should be in the range between the temperatu
 Algorithms that have been tried for the prediction include: Ridge, Lasso and SVR of the sklearn python package, and dimention expantion(PolynomialFeatures) has been used to optimize the accuracy.
 
 ### Result 
-Team-Libra (Team member: Sarah Zhao) get the MSE: 0.02451, ranked the 13th among the 48 teams in this competetion.
+Team-Libra (Team member: Sarah Zhao) get the **MSE: 0.02451**, ranked the 13th among the 48 teams in this competetion.
 I used the Ridge regression model and dimention expantion to solve this problem.
 
 [Kaggle link](https://www.kaggle.com/c/si670fall2020/leaderboard)
