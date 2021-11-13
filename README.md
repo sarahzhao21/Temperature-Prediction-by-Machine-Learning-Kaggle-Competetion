@@ -31,13 +31,13 @@ The temperature of a specific depth should be in the range between the temperatu
 |2012-04-20 03	|5.205	|5.231	|5.205	|5.154	|5.154	|5.102	|5.128	|4.999	|4.895	|4.921	|4.766	|4.818	|4.766	|4.792	|4.792	|4.766|
 |2012-04-20 04	|5.205	|5.231	|5.154	|5.050	|5.050	|4.999	|5.076	|4.999	|4.947	|4.973	|4.818	|4.844	|4.792	|4.792	|4.792	|4.766|  
 
-Algorithms that have been tried for the prediction include: Ridge, Lasso and SVR of the sklearn python package, and dimention expantion(PolynomialFeatures) has been used to optimize the accuracy.
+Algorithms that have been tried for the prediction include: Ridge, Lasso and SVR of the sklearn python package, and dimention expantion(PolynomialFeatures) has been used to optimize the accuracy. The details are in the file [Kaggle task1.ipynb](https://github.com/sarahzhao21/SI670_Kaggle_Competetion_Temperature_Prediction/blob/af739c8085f59874c2583dc586436a195740b4a8/Kaggle%20Task1.ipynb).
 
 ### Result 
 Team-Libra (Team member: Sarah Zhao) get the **MSE: 0.02451**, ranked the 13th among the 48 teams in this competetion.
 I used the Ridge regression model and dimention expantion to solve this problem.
 
-[Kaggle link](https://www.kaggle.com/c/si670fall2020/leaderboard)
+[Link to Kaggle](https://www.kaggle.com/c/si670fall2020/leaderboard)
 
 
 
